@@ -7,3 +7,13 @@ D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.Properties.Resources.re
 D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.csproj.GenerateResource.Cache
 D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.exe
 D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.pdb
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\bin\Debug\DazhiJingTan.exe.config
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\obj\Debug\DazhiJingTan.exe
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\obj\Debug\DazhiJingTan.pdb
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\bin\Debug\DazhiJingTan.exe
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\bin\Debug\DazhiJingTan.pdb
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\obj\Debug\DazhiJingTan.csprojResolveAssemblyReference.cache
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\obj\Debug\DazhiJingTan.JingTan.resources
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\obj\Debug\DazhiJingTan.PrintPage.resources
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\obj\Debug\DazhiJingTan.Properties.Resources.resources
+K:\BIGCAT\Projects\GeoDetection\DazhiJingTan\obj\Debug\DazhiJingTan.csproj.GenerateResource.Cache

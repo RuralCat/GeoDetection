@@ -192,5 +192,10 @@ namespace DazhiJingTan
 
         #endregion
 
+        private void printViewBtn_Click(object sender, EventArgs e)
+        {
+            PrintPage page = new PrintPage(stFile);
+            page.Show();
+        }
     }
 }
