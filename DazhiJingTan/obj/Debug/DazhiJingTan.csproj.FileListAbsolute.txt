@@ -1,9 +1,0 @@
-D:\Code\DazhiJingTan\DazhiJingTan\bin\Debug\DazhiJingTan.exe.config
-D:\Code\DazhiJingTan\DazhiJingTan\bin\Debug\DazhiJingTan.exe
-D:\Code\DazhiJingTan\DazhiJingTan\bin\Debug\DazhiJingTan.pdb
-D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.csprojResolveAssemblyReference.cache
-D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.JingTan.resources
-D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.Properties.Resources.resources
-D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.csproj.GenerateResource.Cache
-D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.exe
-D:\Code\DazhiJingTan\DazhiJingTan\obj\Debug\DazhiJingTan.pdb
